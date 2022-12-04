@@ -1,1 +1,1 @@
-# uitcanteen-admin-
+# Full stack UITcanteen Admin's site
