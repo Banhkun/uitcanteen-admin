@@ -1,0 +1,650 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456"
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 11
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 13
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 14
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 15
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 18
+    },
+    {
+      "email": "20521597@gm.uit.edu.vn",
+      "password": "123456",
+      "id": 19
+    }
+  ],
+  "order": [
+    {
+      "id": "f587ed24-1279-5867-bf4f-7eabce0d3ff7",
+      "name": "Ngọc",
+      "status": "Đang xử lý",
+      "price": 25000,
+      "dateCreated": "2022-02-09T10:44:16.532Z",
+      "lastLogin": "2022-12-04T19:19:00.000Z",
+      "isNew": false
+    },
+    {
+      "id": "c554a910-ee03-5c96-a82d-cdc10a848312",
+      "name": "Như",
+      "status": "Hoàn thành",
+      "price": 30000,
+      "dateCreated": "2022-05-30T11:51:03.186Z",
+      "lastLogin": "2022-12-06T02:26:00.000Z",
+      "isNew": false
+    },
+    {
+      "id": "260b50a8-044c-5ae3-8083-6ba9ec34d01b",
+      "name": "Jayden Cobb",
+      "status": "Hoàn thành",
+      "price": 25000,
+      "dateCreated": "2022-04-16T05:20:59.939Z",
+      "lastLogin": "2022-12-02T06:08:08.138Z",
+      "isNew": false
+    },
+    {
+      "id": "45bd2f0d-731f-57e3-b6ce-d65b17a8ca6d",
+      "name": "Mathilda Manning",
+      "status": "Hoàn thành",
+      "price": 30000,
+      "dateCreated": "2022-02-25T09:38:10.889Z",
+      "lastLogin": "2022-12-02T04:41:23.170Z",
+      "isNew": false
+    },
+    {
+      "id": "6b9740f7-4b68-5a74-96ba-a7793cca4c2d",
+      "name": "Justin Phelps",
+      "status": "Đang xử lý",
+      "price": 25000,
+      "dateCreated": "2022-07-06T03:39:12.348Z",
+      "lastLogin": "2022-12-02T09:15:24.094Z",
+      "isNew": false
+    },
+    {
+      "id": "62b9148f-b925-58ce-bb4e-833343da14f3",
+      "name": "Bảnh",
+      "status": "Hoàn thành",
+      "isNew": false,
+      "lastLogin": "2022-12-02T14:15:00.000Z",
+      "price": 30000
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "dishType": "Món chính",
+      "name": "Thịt kho trứng",
+      "image": "https://lh5.googleusercontent.com/i775fFcGGdDyBKMUVHQzloguikE7G6LF7gh_49fUvNQOF87ATfCYvEJTrxAixUO96zI=w2400",
+      "description": "Món thịt kho trứng đậm đà, thơm mềm hấp dẫn cùng bát cơm trắng ngần nóng hổi thì không gì sánh bằng!",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 14
+    },
+    {
+      "id": 2,
+      "dishType": "Món phụ",
+      "name": "Thịt gà kho sả ớt",
+      "image": "https://lh3.googleusercontent.com/OQRwIJzCMwaSRRZ3bTeXOjxrtCTvcxJgyGl-EtzQGhQW11iFkWqoz4Jg7jyLvSHovgc=w2400",
+      "description": "Thịt gà thơm ngon đậm đà hòa cùng chút cay của sả ớt tạo nên một món ăn cực kì đưa cơm.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 11
+    },
+    {
+      "id": 3,
+      "dishType": "Món chính",
+      "name": "Cá lóc kho tộ",
+      "image": "https://lh5.googleusercontent.com/xNBQntv_l3BNrjU3j7E28DeoxEQp3n4ecmRlmdcGs_f-t6oG4k7rOlt316bGj27HT2k=w2400",
+      "description": "Cá lóc kho tộ là món ăn ngon, thịt cá ngọt và chắc, thấm đều gia vị đậm đà vô cùng đưa cơm.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 5
+    },
+    {
+      "id": 4,
+      "dishType": "Món chính",
+      "name": "Thịt heo kho măng",
+      "image": "https://lh5.googleusercontent.com/2aBwAWOJIsgbRi7yeko1zUNhjZMKytvt7Nrn1eNeO-s5nA0wyIA-8us0AkOGcFZLerM=w2400",
+      "description": "Thịt kho măng được nhiều gia đình ưa thích bởi vị giòn ngọt của măng hòa quyện thịt heo đậm đà, món ăn rất phù hợp vào ngày trời se lạnh.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 8
+    },
+    {
+      "id": 5,
+      "dishType": "Món chính",
+      "name": "Thịt heo kho củ cải",
+      "image": "https://lh3.googleusercontent.com/RvYfmOkqzUh7B3Ki3OL1lc1CF9bSuKQWnUKLAlk44M4zRb-XQrkUbQ9D6xrjfmKHO2U=w2400",
+      "description": "Thịt heo kho củ cải trắng là món ăn đặc biệt thích hợp để nấu và thưởng thức khi trời sang đông.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 9
+    },
+    {
+      "id": 6,
+      "dishType": "Món chính",
+      "name": "Đậu hũ nhồi thịt",
+      "image": "https://lh5.googleusercontent.com/JBBcSGOQc0p2IyQf51LOz_azbMRkbjmWE-EC8Auw_q4Aer4nM5lvI0e4n9MrgsG_TYE=w2400",
+      "description": "Món ăn này hấp dẫn và thơm ngon với phần thịt béo mềm bên trong, vị sần sật của nấm tai mèo (mộc nhĩ), đậu hũ bên ngoài vàng giòn rụm.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 6
+    },
+    {
+      "id": 7,
+      "dishType": "Món chính",
+      "name": "Chả cá sốt mắm tỏi",
+      "image": "https://lh3.googleusercontent.com/ZxMmESucqzGsLry3VMpPUVn3rWhUzeCjLJejSoe5yvCYhm9LFTaBWAnzzncUuPHP3vc=w2400",
+      "description": "Chả cá rim mắm tỏi khi ăn vào sẽ có chút cay nồng của tiêu xanh hòa quyện với chả cá thác lác đem lại sự trải nghiệm tuyệt vời.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 6
+    },
+    {
+      "id": 8,
+      "dishType": "Món chính",
+      "name": "Trứng chiên thịt",
+      "image": "https://lh4.googleusercontent.com/Q1cUaokXQJcBMKUf5zCK_LVGvSuMZgtY_FmDPOhrYYDB9ihhYAjAs9AQgXpDGdbEH4s=w2400",
+      "description": "Sự kết hợp của trứng và thịt bằm, sau khi chiên lên thì tạo nên một đĩa trứng chiên thịt ngon tuyệt vời.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 7
+    },
+    {
+      "id": 9,
+      "dishType": "Món chính",
+      "name": "Bạch tuộc xào sả ớt",
+      "image": "https://lh6.googleusercontent.com/ht5AyheCM4SzZtpveO7mUDc6t3iV2EWlf1JyyDe_6VgJ_2AQh9daY69pBzg3N48lAFI=w2400",
+      "description": "Bạch tuộc xào sả ớt thơm ngon dễ làm với mùi thơm của sả, vị cay nồng của ớt làm cho món ăn thêm hấp dẫn.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 8
+    },
+    {
+      "id": 10,
+      "dishType": "Món chính",
+      "name": "Đậu hũ sả ớt",
+      "image": "https://lh4.googleusercontent.com/7NMvliIENpu42BTDwCHiH96q1jk6Aaq7cwuCF6JjQJN7k3KtQMgxmF0eML6JHrqDnZc=w2400",
+      "description": "Đậu hũ kho sả ớt - món ăn đơn giản dễ làm, mùi vị thơm béo từ miếng đậu, sốt kho mặn ngọt vừa phải, sả ớt cay cay kích thích vị giác.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 18
+    },
+    {
+      "id": 11,
+      "dishType": "Món chính",
+      "name": "Nem nướng",
+      "image": "https://lh5.googleusercontent.com/Q5LHw8Is_i4CXQV7uHxuN1vViyA5qLNwa7RV8d0SbCdsXjenbO1cX327HiMd0xI08lI=w2400",
+      "description": "Nem nướng có hương vị thơm ngon, dai và dẻo, không ngậy, ăn kèm thêm xà lách, các loại rau thơm.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 11
+    },
+    {
+      "id": 12,
+      "dishType": "Món chính",
+      "name": "Lòng gà xào thơm",
+      "image": "https://lh4.googleusercontent.com/a4-khFy6Np6VjoP3fv-qib6sSBpcnFSw-YMD1Qt_2pUlYJ3Sirwsf7yKJ800DRlA7PM=w2400",
+      "description": "Lòng mề gà xào dứa dai dai, chua ngọt cực đưa cơm",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 12
+    },
+    {
+      "id": 13,
+      "dishType": "Món chính",
+      "name": "Cánh gà chiên nước mắm",
+      "image": "https://lh5.googleusercontent.com/7vRoTqmB4VKvTU0p0dscaRYLkICb5uskHvmx014yeJ9iubL27g-DslD0E5hFwKfTzPo=w2400",
+      "description": "Miếng cánh gà giòn rụm cùng với nước sốt ngon ngọt sánh mịn, chan với cơm trắng, ngon đặc trưng, mặn bùi hao cơm. ",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 9
+    },
+    {
+      "id": 14,
+      "dishType": "Món chính",
+      "name": "Bò kho",
+      "image": "https://lh5.googleusercontent.com/lY-clgbAe98G9AmeVwnoKJvmYiSjwGTYrQT5ZFE7RlDlF8PYNBRPAGyJjyMThU3SDrg=w2400",
+      "description": "Món bò kho “gây thương nhớ” nhờ hương vị đậm đà khó quên, bổ sung protein và các vitamin, khoáng chất cần thiết cho cơ thể, tăng cường sức khỏe cho chúng ta.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 10
+    },
+    {
+      "id": 15,
+      "dishType": "Món chính",
+      "name": "Thịt luộc cà pháo mắm tôm",
+      "image": "https://lh3.googleusercontent.com/zH0ARKBz2PLE2g85RRfmFNjPQwZlSMbDczp5FUtjhhcO5rFZkHGF7bdGW2frAOfrXUw=w2400",
+      "description": "Từng miếng thịt ba chỉ heo luộc xen lẫn nạc và mỡ, chấm cùng mắm tôm đậm vị rồi dùng thêm cà pháo giòn sần sật.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 12
+    },
+    {
+      "id": 16,
+      "dishType": "Món phụ",
+      "name": "Khổ qua xào trứng",
+      "image": "https://lh5.googleusercontent.com/izkMp3XuZ8kfA6PTIlXdeFGRxXfV_SV6TaoUPo-WtO1AyUPmtzbOfwHg4m5hOUFa-dw=w2400",
+      "description": "Khổ qua xào trứng là món ăn ngon, mát, phù hợp cho ngày nắng nóng. ",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 12
+    },
+    {
+      "id": 17,
+      "dishType": "Món phụ",
+      "name": "Đậu cô ve xào",
+      "image": "https://lh6.googleusercontent.com/RYRjcSwDHtUF9rCU59u4xNQ4pQmoYfoGzS8fVbeeStKJ9mWASgiQ8rRtI-9gBJ_DCpc=w2400",
+      "description": "Món ăn ngon, nóng sốt và cách chế biến nhanh và đơn giản, thích hợp để bổ sung thêm dinh dưỡng vào khẩu phần.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 2
+    },
+    {
+      "id": 18,
+      "dishType": "Món phụ",
+      "name": "Cà rốt xào trứng",
+      "image": "https://lh4.googleusercontent.com/4WnGuVBt0MEQ8hQ99NTIwINCcqJbOv8t9rtf3gpJu1LCWRGLW_1worS7ELJujYSBvUQ=w2400",
+      "description": "Khi ăn sẽ cảm nhận được vị mềm, ngọt của cà rốt cùng với vị béo của trứng.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 6
+    },
+    {
+      "id": 19,
+      "dishType": "Món phụ",
+      "name": "Khoai tây xào tỏi",
+      "image": "https://lh4.googleusercontent.com/yMRqzZbt0LbkfKiHuSz3mLbDv70GS0rqcAqcWbZDeG6V6oWS6bHXUkG81xfA1XgHbBo=w2400",
+      "description": "Miếng khoai chín bùi, vừa tới mà lại quyện trong lớp sốt cà chua thơm thơm với hành tây, ",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 7
+    },
+    {
+      "id": 20,
+      "dishType": "Món phụ",
+      "name": "Su su xào trứng",
+      "image": "https://lh5.googleusercontent.com/B9yb9G1ryeotDcmPeOL4xCy67CXI-hJqcbCcbj-iHR70h6A6uUx5WpsDbAK1xvnjeMQ=w2400",
+      "description": "Su su thanh mát được xào kỹ nhưng vẫn giữ được độ giòn, trứng mềm và béo được nêm nếm vừa phải",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 6
+    },
+    {
+      "id": 21,
+      "dishType": "Món phụ",
+      "name": "Nộm dưa chuột",
+      "image": "https://lh5.googleusercontent.com/WuFLtwnRrkc38NiH63pjFFCOseOUsArkQuVryfQGy4Fvp2a8HMaEavFk7EF1mQgs8g0=w2400",
+      "description": "ộm dưa chuột cà rốt là một món ăn giòn ngon, chống ngán rất hiệu quả.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 8
+    },
+    {
+      "id": 22,
+      "dishType": "Món phụ",
+      "name": "Bí đỏ xào tỏi",
+      "image": "https://lh3.googleusercontent.com/jBTXBptbvs4Y80j_vEysKnUcPR36vL0ZcBl_yvWpXNZeIQNqj9tUqKbNVxiwbbzaEQI=w2400",
+      "description": "Bí đỏ xào tỏi có màu vàng ươm của bí và màu xanh của hành lá, bí đỏ vừa chín tới, khi ăn thì có độ mềm và vị ngọt đặc trưng. ",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 8
+    },
+    {
+      "id": 23,
+      "dishType": "Món phụ",
+      "name": "Rau muống xào tỏi",
+      "image": "https://lh6.googleusercontent.com/_LeTF-PmmXM54q45ulsLCjgLpKHc7tX4EVta6KqDujte2Z18oHx0h0bnLQ9AJ6UwMuE=w2400",
+      "description": "Rau muống xào xanh mướt giữ được vitamin, thân giòn, chút lá non mềm mượt, vị ngon đậm đà.",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 30,
+      "spare": 18
+    }
+  ],
+  "ingredient": [
+    {
+      "id": 1,
+      "ingredientName": "Thịt heo",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:58.000Z",
+      "quantity": 10,
+      "unitPrice": 134000
+    },
+    {
+      "id": 2,
+      "ingredientName": "Thịt bò",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:58.000Z",
+      "quantity": 52,
+      "unitPrice": 165000
+    },
+    {
+      "id": 3,
+      "ingredientName": "Cá biển",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:58.000Z",
+      "quantity": 24,
+      "unitPrice": 150000
+    },
+    {
+      "id": 4,
+      "ingredientName": "Thịt gà",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 17,
+      "unitPrice": 180000
+    },
+    {
+      "id": 5,
+      "ingredientName": "Trứng",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 18,
+      "unitPrice": 2500
+    },
+    {
+      "id": 6,
+      "ingredientName": "Bạch tuộc",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 20,
+      "unitPrice": 90000
+    },
+    {
+      "id": 7,
+      "ingredientName": "Chả cá",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 28,
+      "unitPrice": 180000
+    },
+    {
+      "id": 8,
+      "ingredientName": "Đậu hũ",
+      "ingredientTypeId": "Tươi sống",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 30,
+      "unitPrice": 10000
+    },
+    {
+      "id": 9,
+      "ingredientName": "Khổ qua",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 35,
+      "unitPrice": 55000
+    },
+    {
+      "id": 10,
+      "ingredientName": "Cà rốt",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 25,
+      "unitPrice": 30000
+    },
+    {
+      "id": 11,
+      "ingredientName": "Bí đỏ",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 28,
+      "unitPrice": 8000
+    },
+    {
+      "id": 12,
+      "ingredientName": "Đậu cô ve",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 30,
+      "unitPrice": 40000
+    },
+    {
+      "id": 13,
+      "ingredientName": "Dưa chuột",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 22,
+      "unitPrice": 15000
+    },
+    {
+      "id": 14,
+      "ingredientName": "Khoai tây",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 26,
+      "unitPrice": 45000
+    },
+    {
+      "id": 15,
+      "ingredientName": "Susu",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 32,
+      "unitPrice": 11000
+    },
+    {
+      "id": 16,
+      "ingredientName": "Củ cải",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 37,
+      "unitPrice": 12000
+    },
+    {
+      "id": 17,
+      "ingredientName": "Rau muống",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 31,
+      "unitPrice": 20000
+    },
+    {
+      "id": 18,
+      "ingredientName": "Hành tây",
+      "ingredientTypeId": "Rau, củ, quả",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 20,
+      "unitPrice": 20000
+    },
+    {
+      "id": 19,
+      "ingredientName": "Ớt",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 30,
+      "unitPrice": 100000
+    },
+    {
+      "id": 20,
+      "ingredientName": "Sả",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 20,
+      "unitPrice": 6000
+    },
+    {
+      "id": 21,
+      "ingredientName": "Gừng",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 15,
+      "unitPrice": 21000
+    },
+    {
+      "id": 22,
+      "ingredientName": "Tỏi",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 30,
+      "unitPrice": 42000
+    },
+    {
+      "id": 23,
+      "ingredientName": "Hành khô",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 25,
+      "unitPrice": 25000
+    },
+    {
+      "id": 24,
+      "ingredientName": "Hành lá",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:44:59.000Z",
+      "quantity": 28,
+      "unitPrice": 30000
+    },
+    {
+      "id": 25,
+      "ingredientName": "Nước mắm",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 40,
+      "unitPrice": 130000
+    },
+    {
+      "id": 26,
+      "ingredientName": "Tiêu",
+      "ingredientTypeId": "Gia vị",
+      "updateAt": "2022-11-22T20:45:00.000Z",
+      "quantity": 25,
+      "unitPrice": 60000
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "updateAt": "2022-12-01T06:14:41.000Z",
+      "userName": "Nhi",
+      "statusid": "Hoàn thành",
+      "total": 30000
+    },
+    {
+      "id": 2,
+      "updateAt": "2022-12-01T06:14:41.000Z",
+      "userName": "Ngọc",
+      "statusid": "Hoàn thành",
+      "total": 25000
+    },
+    {
+      "id": 3,
+      "updateAt": "2022-12-01T06:14:42.000Z",
+      "userName": "Khanh",
+      "statusid": "Hoàn thành",
+      "total": 120000
+    },
+    {
+      "id": 4,
+      "updateAt": "2022-12-01T06:14:42.000Z",
+      "userName": "Quyên",
+      "statusid": "Hoàn thành",
+      "total": 60000,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "updateAt": "2022-12-01T06:14:42.000Z",
+      "userName": "Thịnh",
+      "statusid": "Hoàn thành",
+      "total": 70000
+    },
+    {
+      "id": 6,
+      "updateAt": "2022-12-01T06:14:43.000Z",
+      "userName": "Bảnh",
+      "statusid": "Đã hủy",
+      "total": 80000
+    },
+    {
+      "id": 7,
+      "updateAt": "2022-12-01T06:14:43.000Z",
+      "userName": "Long",
+      "statusid": "Đã hủy",
+      "total": 50000
+    },
+    {
+      "id": 8,
+      "updateAt": "2022-12-01T06:14:43.000Z",
+      "userName": "Độ",
+      "statusid": "Đang xử lý",
+      "total": 25000
+    }
+  ]
+}
