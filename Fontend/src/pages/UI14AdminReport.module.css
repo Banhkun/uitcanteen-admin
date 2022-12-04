@@ -431,7 +431,7 @@
 
 .textBin {
     top: 55px;
-    left: 75%;
+    left: 80%;
     font-size: var(--font-size-xl);
     color: var(--color-gray-500);
     width: 150px;
@@ -439,6 +439,7 @@
         position: absolute;
             display: flex;
             align-items: center;
+
 }
 
 @media print {
