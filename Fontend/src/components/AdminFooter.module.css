@@ -1,0 +1,51 @@
+.canteenUITDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logoUit1Icon {
+  position: absolute;
+  height: 77.03%;
+  width: 24%;
+  top: 12.99%;
+  right: 75.71%;
+  bottom: 12.99%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logoDiv {
+  position: absolute;
+  height: 77%;
+  width: 24%;
+  top: 11%;
+  right: 70%;
+  bottom: 12%;
+  left: 4.79%;
+}
+.adminFooterHeader {
+  align-self: stretch;
+  position: relative;
+  background: linear-gradient(
+    90deg,
+    rgba(194, 194, 194, 0.4),
+    rgba(0, 0, 0, 0.4)
+  );
+  height: 100px;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-brown);
+  font-family: var(--font-praise);
+}
+@media print {
+  .adminFooterHeader {
+    visibility: hidden;
+  }
+}

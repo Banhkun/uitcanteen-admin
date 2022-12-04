@@ -1,0 +1,59 @@
+.greetingTextTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+
+.greetingTextDiv {
+  position: absolute;
+  height: 25.68%;
+  width: 27.43%;
+  top: 38.51%;
+  left: 67.43%;
+  display: flex;
+  align-items: center;
+}
+
+.menuButtonIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  left: -2px;
+  width: 45px;
+  height: 34px;
+}
+
+.menuButton {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 35px;
+  left: 54px;
+  width: 41px;
+  height: 30px;
+}
+
+.menuButton,
+.menuButton:hover {
+  cursor: pointer;
+}
+
+.menuButton:active {
+  cursor: wait;
+}
+
+.adminHeader {
+  align-self: stretch;
+  position: relative;
+  height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  font-family: var(--font-arial);
+}
+@media print {
+  .adminHeader {
+    visibility: hidden;
+  }
+}

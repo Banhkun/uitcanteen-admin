@@ -1,0 +1,301 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.icroundHomeIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.trangChDiv {
+  position: absolute;
+  top: 9px;
+  left: 45px;
+  display: flex;
+  align-items: center;
+  width: 261px;
+  height: 19px;
+}
+.homeDiv,
+.textDiv {
+  position: absolute;
+  top: 683px;
+  left: 35px;
+  width: 306px;
+  height: 30px;
+}
+.textDiv {
+  top: 10px;
+  left: 45px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.signoutDiv,
+.textDiv1 {
+  position: absolute;
+  top: 726px;
+  left: 35px;
+  width: 254px;
+  height: 30px;
+}
+.textDiv1 {
+  top: 5px;
+  left: 45px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.lineDiv,
+.statisticDiv {
+  position: absolute;
+  top: 605px;
+  left: 35px;
+  width: 254px;
+  height: 30px;
+}
+.lineDiv {
+  top: 658.5px;
+  left: 38.5px;
+  border-top: 1px solid #b9b9b9;
+  box-sizing: border-box;
+  width: 335px;
+  height: 1px;
+}
+.textDiv2 {
+  position: absolute;
+  top: 7px;
+  left: 42px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.frameDiv,
+.frameIcon,
+.textDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24.85px;
+  height: 26.25px;
+}
+.frameDiv,
+.textDiv3 {
+  top: 771px;
+  left: 35px;
+  width: 251px;
+}
+.textDiv3 {
+  top: 5px;
+  left: 39px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.option3Div,
+.textDiv4 {
+  position: absolute;
+  top: 128px;
+  left: 45px;
+  width: 248px;
+  height: 30px;
+}
+.textDiv4 {
+  top: 5px;
+  left: 42px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.option1Div,
+.option2Div,
+.textDiv6 {
+  position: absolute;
+  top: 85px;
+  left: 45px;
+  width: 251px;
+  height: 30px;
+}
+.option1Div,
+.textDiv6 {
+  top: 42px;
+}
+.textDiv6 {
+  top: 7px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.materialSymbolsarrowBackIoIcon {
+  position: absolute;
+  top: 3px;
+  left: 240px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.orderListTitleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 30px;
+}
+.orderListDropdownDiv {
+  position: absolute;
+  top: 91px;
+  left: 35px;
+  width: 296px;
+  height: 158px;
+}
+.option1Div1,
+.option2Div1,
+.option3Div1,
+.textDiv10 {
+  position: absolute;
+  top: 132px;
+  left: 45px;
+  width: 248px;
+  height: 30px;
+}
+.option1Div1,
+.option2Div1,
+.textDiv10 {
+  top: 89px;
+  width: 251px;
+}
+.option1Div1,
+.textDiv10 {
+  top: 46px;
+}
+.textDiv10 {
+  top: 8px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+  height: 19px;
+}
+.materialSymbolsarrowBackIoIcon1 {
+  position: absolute;
+  top: 4px;
+  left: 258px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.ingredientListTitleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 278px;
+  height: 30px;
+}
+.ingredientListDropdown {
+  position: absolute;
+  top: 262px;
+  left: 35px;
+  width: 296px;
+  height: 162px;
+}
+.option1Div2,
+.option2Div2,
+.option3Div2 {
+  position: absolute;
+  top: 125px;
+  left: 49px;
+  width: 248px;
+  height: 30px;
+}
+.option1Div2,
+.option2Div2 {
+  top: 82px;
+  width: 251px;
+}
+.option1Div2 {
+  top: 39px;
+}
+.materialSymbolsarrowBackIoIcon2 {
+  position: absolute;
+  top: 3px;
+  left: 221px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.dishListDropdownTextDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 254px;
+  height: 30px;
+}
+.dishListDropdownDiv,
+.optionIcon {
+  position: absolute;
+  top: 437px;
+  left: 35px;
+  width: 300px;
+  height: 155px;
+}
+.optionIcon {
+  height: 4.03%;
+  width: 11.54%;
+  top: 3.67%;
+  right: 79.49%;
+  bottom: 92.3%;
+  left: 8.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.canteenUITDiv {
+  margin-top: 2 ;
+  margin-left: 10;
+  margin-right: 10;
+  position: position;
+  height: 9.12%;
+  width: 70%;
+  top: 1.66%;
+  left: 24.36%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-praise);
+  color: var(--color-brown);
+  text-align: center;
+  display: inline;
+  align-items: center;
+  justify-content: center;
+  float: right;
+}
+.optionDiv {
+  position: relative;
+  border-radius: 0 var(--br-md) var(--br-md) 0;
+  background-color: #fff;
+  width: 390px;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-arial);
+}
+.optionDiv.animate {
+  animation: 0s ease 0s 1 normal forwards slide-in-left;
+}
