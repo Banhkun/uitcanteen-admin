@@ -7,12 +7,8 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import Collapse from "@mui/material/Collapse";
-import InboxIcon from "@mui/icons-material/MoveToInbox";
-import DraftsIcon from "@mui/icons-material/Drafts";
-import SendIcon from "@mui/icons-material/Send";
 import ExpandLess from "@mui/icons-material/ExpandLess";
 import ExpandMore from "@mui/icons-material/ExpandMore";
-import StarBorder from "@mui/icons-material/StarBorder";
 import Divider from "@mui/material/Divider";
 import { useNavigate, Link as Linkroute } from "react-router-dom";
 
@@ -148,7 +144,7 @@ const Option1: FunctionComponent<Option1Type> = ({ onClose }) => {
             <img alt="" src="../mdifoodturkey.svg" />{" "}
           </ListItemIcon>
           <ListItemText primary="Danh sách món ăn" />
-          {open2 ? <ExpandLess /> : <ExpandMore />}
+          {open3 ? <ExpandLess /> : <ExpandMore />}
         </ListItemButton>
         {/* Option */}
         <Collapse in={open3} timeout="auto" unmountOnExit sx={{ mx: 4 }}>
