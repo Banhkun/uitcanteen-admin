@@ -1,4 +1,5 @@
-# Full stack UITcanteen Admin's site
+# UITcanteen Admin's site
+# My position: Full-Stack
 ## Live Demo 
 <a href = "https://uit-canteen-admin.netlify.app/" >DEMO HERE!<a/>
 ## Deployment Status
