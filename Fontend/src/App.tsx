@@ -67,6 +67,9 @@ function App() {
           <h3>Người dùng chưa thực hiện đăng nhập 🙂</h3>
           <h4>
             Mời bạn đăng nhập<Link to="/"> tại đây</Link>
+            Tài khoản dành cho khách:
+            Tk: customer@gm.uit.edu.vn
+            Mk: 123456
           </h4>
         </>
       ) : (
